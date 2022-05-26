@@ -4,5 +4,19 @@ setuptools>=26
 twine
 wheel>=0.29
 
+# data science
+numpy
+pandas
+
+#frontend
 streamlit==1.9.0
-numpy==1.18.5
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+# utilities
+six>=1.14
